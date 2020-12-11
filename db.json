@@ -1,8 +1,8 @@
 {
   "products": [
     {
-      "id": "Iamlink",
-      "title": "title1"
+      "value": "Iamlink",
+      "text": "title1"
     }
   ]
 }
